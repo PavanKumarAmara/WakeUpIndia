@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WakeUpIndia</string>
+    <String name="error_message">Oops..! we cannot process your request now</String>
+    <String name="user_name_title">Let Me Know Your Name</String>
+    <String name="password_title">Validate Your Password</String>
+    <String name="forgot_password">Did you forgot your password?</String>
+    <String name="sign_up_title">Want To Join Us?</String>
+    <String name="sign_in_title">Authorize Me</String>
+    <String name="password_title">Validate Your Password</String>
+
+</resources>
